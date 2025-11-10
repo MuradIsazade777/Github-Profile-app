@@ -29,7 +29,6 @@ Open index.html in your browser — no build step required.
 
 Check out the live version here: [Demo](https://github-profile-app-iota.vercel.app/)
 
-
 ## 📄 License
 
 This project is licensed under the MIT License.  
@@ -37,4 +36,4 @@ You are free to use, modify, and distribute this software with proper attributio
 
 See the [LICENSE](LICENSE) file for full details. 
 
-Created with ❤️ by Murad Isazade.
+Created with ❤️ by Murad Isazade, Full-stack Developer.
